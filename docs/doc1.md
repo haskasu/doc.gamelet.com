@@ -5,6 +5,8 @@ sidebar_label: Style Guide
 slug: /
 ---
 
+這件文件是給新手看的！
+
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 
 ## Markdown Syntax
