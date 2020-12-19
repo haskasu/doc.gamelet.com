@@ -1,14 +1,24 @@
-# Website
+# Code Gamelet Documentation
 
-This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+Welcome! This repository manages all documenation of code gamelet!
 
-## Installation
+We are welcome to any contribution regarding the documents. You can either open an issue or email us.
 
+## Content
+
+As mentioned, you are welcome to voice out any option, or submit tutorial notes. Below is our content person:
+
+* **Danny**: kkdlau@connect.ust.hk
+
+## Installation && Development
+
+First, you have to `git clone` this repo. Then enter:
 ```console
 npm install
 ```
+in your terminal. It will automatically install all required dependencies for you.
 
-## Local Development
+To test this repo, enter:
 
 ```console
 npm start
