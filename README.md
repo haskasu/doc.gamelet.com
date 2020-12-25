@@ -10,7 +10,7 @@ As mentioned, you are welcome to voice out any option, or submit tutorial notes.
 
 * **Danny**: kkdlau@connect.ust.hk
 
-## Installation && Development
+## Installation & Development
 
 First, you have to `git clone` this repo. Then enter:
 ```console
